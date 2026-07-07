@@ -2,6 +2,10 @@
 
 A professional Windows desktop note-taking application built with Electron + React + NeDB.
 
+## Screenshot
+
+![Vivek Notes App](screenshots/app-screenshot.png)
+
 ## Features
 
 - **Rich Text Editor** — Bold, italic, underline, headings, lists, links, images, tables, colors
@@ -66,6 +70,8 @@ notepad/
 │   └── index.css              # Global styles + Tailwind
 ├── assets/
 │   └── icon.ico               # App icon (256x256)
+├── screenshots/
+│   └── app-screenshot.png     # App screenshot
 ├── scripts/
 │   └── create-icon.js         # Icon generator utility
 ├── package.json
@@ -73,6 +79,17 @@ notepad/
 ├── tailwind.config.js
 └── README.md
 ```
+
+## Keyboard Shortcuts
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl + N` | New Note |
+| `Ctrl + S` | Save Note |
+| `Ctrl + F` | Search |
+| `Ctrl + D` | Duplicate Note |
+| `Ctrl + Z` | Undo |
+| `Ctrl + Y` | Redo |
 
 ## Tech Stack
 
