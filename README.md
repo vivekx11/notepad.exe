@@ -1,4 +1,4 @@
-# Vivek Notes
+#  NotePad
 
 A professional Windows desktop note-taking application built with Electron + React + NeDB.
 
