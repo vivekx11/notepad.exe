@@ -6,7 +6,7 @@ A professional Windows desktop note-taking application built with Electron + Rea
 ## Screenshot
 
 ![Vivek Notes App](screenshots/app-screenshot.png)
-
+______________________________
 ## Features
 
 - **Rich Text Editor** — Bold, italic, underline, headings, lists, links, images, tables, colors
