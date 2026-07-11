@@ -22,7 +22,7 @@ ______________________________
 - **Keyboard Shortcuts** — Ctrl+N, Ctrl+S, Ctrl+F, Ctrl+D, Ctrl+Z, Ctrl+Y
 - **Custom Title Bar** — Minimize, maximize, close with drag support
 - **Glassmorphism UI** — Windows 11-inspired design with soft shadows and blur
-
+  ________________________________________________________________
 ## Build & Run
 
 ### Prerequisites
